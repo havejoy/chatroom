@@ -99,7 +99,7 @@ messageForm.addEventListener("submit", (e) => {
 
 在服务器、客户端均设置了事件触发及对应的监听后，即可完成双向通信，下面是最终的简单聊天室效果。
 
-![image-20200817201248225](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghu2j7r230j31vt0u0wwf.jpg)
+![demoshow](./demoshow.png)
 
 ### 如何启动
 
